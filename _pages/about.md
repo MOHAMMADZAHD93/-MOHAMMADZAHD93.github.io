@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Fredrik Bajers Vej 7C</p>
-    <p>123 9220 Aalborg Øst</p>
+    <p>9220 Aalborg Øst</p>
     <p>Denmark</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
